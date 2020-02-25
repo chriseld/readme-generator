@@ -19,7 +19,7 @@ function init() {
     },
     {
         name: 'projectDesc',
-        message: 'Please prvide a short description of your project.',
+        message: 'Please provide a short description of your project.',
     },
     {
         type: 'list',
